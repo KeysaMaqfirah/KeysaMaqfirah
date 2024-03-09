@@ -41,4 +41,4 @@
 ### Media Sosial :
 
 <a href="https://www.instagram.com/keyciah_ilah?igsh=MXZscXh1YXNzbjdnOA==" target="blank"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-<a href="https://youtube.com/@keysamaqhfira8589?si=tKNf1BGRWHReDDsY" target="blank"> ![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="https://youtube.com/@keysamaqhfira8589?si=tKNf1BGRWHReDDsY" target="blank"> ![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=white)
