@@ -29,6 +29,11 @@
    - 🫡“Belajarlah dari tuyul, kecil-kecil sudah pintar cari duit".
    - ☠️"Hiduplah seolah engkau mati besok. Belajarlah seolah engkau hidup selamanya".
 
+----------------------------------------------------------------------------------------
+     Hidup Saya Simple.
+        Saya Gak Niat Menjelaskan
+        Dan Mereka Gak Harus Mengerti. Just It!
+---------------------------------------------------------------------------------------
 ---
 
 ### Bahasa Dan Alat :
