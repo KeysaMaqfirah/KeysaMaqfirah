@@ -1,5 +1,4 @@
 # Halo, Saya Keysa Maqfirah 🤗
-(https://youtube.com/@keysamaqhfira8589?si=tKNf1BGRWHReDDsY) 👋
 ## Tentang Saya :
 - 😎 Saat ini saya sedang berkuliah di Universitas Bengkulu.
 - 🌐 Saya mengambil jurusan Teknik Informatika.
