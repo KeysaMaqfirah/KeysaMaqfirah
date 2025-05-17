@@ -2,6 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Keysa%20Maqfirah&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Fullstack%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
 </div>
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="colorful-line" width="100%" />
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+my+tech+universe!+✨;Informatics+Student+at+University+of+Bengkulu;Passionate+Fullstack+Developer;UI%2FUX+Design+Enthusiast;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
@@ -9,8 +12,11 @@
   <a href="mailto:keyaja176@gmail.com">
     <img src="https://img.shields.io/badge/Email-keyaja176%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/keysa-maqfirah-a61314307">
+    <img src="https://img.shields.io/badge/LinkedIn-Keysa_Maqfirah-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/keyciah_ilah?igsh=MXZscXh1YXNzbjdnOA==">
+    <img src="https://img.shields.io/badge/Instagram-keyciah__ilah-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://github.com/KeysaMaqfirah">
     <img src="https://img.shields.io/github/followers/KeysaMaqfirah?style=for-the-badge&logo=github&labelColor=black&color=ff66cc" alt="GitHub followers" />
@@ -42,47 +48,40 @@
   <b>Tech Stack & Skills</b>
 </h2>
 <div align="center">
-  <h3>💻 Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <h3 align="center">💻 Programming Languages</h3>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F5YzB0OWcwc2cydGFna2hzN2xsZ2ZjdWRkaGVoOW5oYW1xbXY1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2sya3R2bmF2cmdobjJjdDU5d3Z5dGlyZ2g5MDFtZzV4cXJneWs1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJjdnpvODNtZHlrY3I2NXk5ZHc0ejB2Y202NWJ0NGgxYWFob2wzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm93ZDk3dWZsOGhlYW8yeW44bm5seXlqZnNkOWViYWlyZDF6MHgzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMt9638dO8dftAjtco/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVoZ3Bya2lqN3N6OWs5aHEzbzdzb3F0eXg1cGxydTQwcnJuaDRraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdFc8fubgS31b8DsVu/giphy.gif" width="70" />
   </p>
-  <h3>🧰 Frameworks & Libraries</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Filament-5849BE?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament" />
+  <h3 align="center">🧰 Frameworks & Libraries</h3>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlnMXM5Nmp5NzhjZWR5N3F5cmpjenQ2dWczM2J0cmVvejRoZjY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZ5M3l0NWxrb2tzc2t4d3JycWJpODgyNjQ5dmJ2dXl5dGQzdTI5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtrYzZrOHRrY25mN2RoN3Exc3ZwY3c0eWppb3Qxb3E5djZiY2owNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDcpPX8vWahUny0pE/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5MnN5dmN3bm5sZnQwNXAwbDhsaDE2OHNrZnp5ZzYwaXh2OHI0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHlpKfnmGOHIdpjx2o/giphy.gif" width="70" />
   </p>
-  <h3>🗄️ Databases & Storage</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/IndexedDB-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="IndexedDB" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <h3 align="center">🗄️ Databases & Storage</h3>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwb2JqZjc5dXZoMGRveDRjcGFhcnJ5bWVpdGJycG5kd2pnaTZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIwcGM1bWRkamRrNnpkempyMXVnNHpuYnBzdjQ2d2ZzdGM0bTF6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztl9x7JlhSlU4MWD6h/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l1ZGlkbDdmcXhzMnpwZXd5ZGN6cGluYTJ2MzR2cTI5Nm54OXBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="70" />
   </p>
-  <h3>🛠️ Tools & Technologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-    <img src="https://img.shields.io/badge/Astah-00B4D8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAZlBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////RudpXAAAAIXRSTlMABjdqmcDlzKF6QBIG2/v33+mRIu5k8Owo1QSz9ZcraMibRpBrAAAAAWJLR0QiXWVcrAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAd0SU1FB+cFEhQCEYAjSUAAAAA8SURBVAjXY2BgZGJmYWVj5+CEATwHBk4GbgYeBl4GPgZ+AQbB0DBhEQZRsGYxBnEJSSlpGVk5eQVFJWUANiwCJwlYH7QAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDUtMThUMjA6MDI6MTcrMDA6MDCiX2QXAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTA1LTE4VDIwOjAyOjE3KzAwOjAw0wLcqwAAAABJRU5ErkJggg==" alt="Astah" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <h3 align="center">🛠️ Tools & Technologies</h3>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVseDF0M3IwdTVuMmszZ2QydWVmcTk0YW1zeXRmMXE1cWlvMGE3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IdyAQJVN2kVPNUrojM/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdsNDNldmF2dzJkMm50dDhtaHBwa2t0aGxtdWVsZmZ1YmJtdDU5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9naG4xNjY3ZGUxODhkbzdtNm9mbnp0MzIxaGF1ZjlvNGR1aWhzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5tcDVrYzl3NWtqY2kxd3I1a2NrZ2hpeG1pcWp2YWJvbmJxZTJnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="70" />
   </p>
-  <h3>⚙️ Other Skills</h3>
-  <p>
-    <img src="https://img.shields.io/badge/RESTful_API-2296F3?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
+  <h3 align="center">⚙️ Other Skills</h3>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDl6dnN0ZHZ3OHlqNGd2ajR3Znd1bzgxdXp0MjF6ZGUzNnBydmNldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9pmLinW8vC22Io/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c2bjlsbGRlYXhqZHk2MGJhbjM2dGN3ZGUwdWV2aTIwZzQ5NTZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JO9WCVmDMbC0eLSlyV/giphy.gif" width="70" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFseHpmdmRsajV0MmlscWJiMHo3Z2kyNzI0M2E1dnZ2d2doNXQ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j5zY9FKGwp1YVZ3Sn5/giphy.gif" width="70" />
+  </p>296F3?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
     <img src="https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
     <img src="https://img.shields.io/badge/Responsive_Design-025E8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive Design" />
     <img src="https://img.shields.io/badge/UI/UX_Design-FF5A5F?style=for-the-badge&logo=adobe&logoColor=white" alt="UI/UX Design" />
@@ -104,9 +103,11 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KeysaMaqfirah&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Keysa's Trophies" />
 </div>
-<!-- Contribution & Activity Graph -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=KeysaMaqfirah&custom_title=Keysa%20Maqfirah's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true&line=ff66cc&point=FFFFFF&area=true&area_color=ff66cc" width="100%" alt="Keysa's Activity Graph" />
+  <img src="https://raw.githubusercontent.com/KeysaMaqfirah/KeysaMaqfirah/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="colorful-line" width="100%" />
 </div>
 <!-- Fun Facts Section -->
 <h2 align="center">
@@ -187,13 +188,13 @@
   <b>Let's Connect!</b>
 </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/keysa-maqfirah-a61314307">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/KeysaMaqfirah">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/keyciah_ilah?igsh=MXZscXh1YXNzbjdnOA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:keyaja176@gmail.com">
