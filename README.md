@@ -21,15 +21,21 @@
 </div>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-javascriptconst keysa = {
-  name: "Keysa Maqfirah",
-  role: "Web Developer & UI/UX Designer",
-  education: "Informatics Engineering Student @ Universitas Bengkulu",
-  batch: "Class of 2022",
-  skills: ["Web Development", "UI/UX Design", "Problem Solving"],
-  currentFocus: "Building creative web applications with clean code",
-  interests: "Exploring new technologies and creating user-friendly interfaces",
-  contact: "keyaja176@gmail.com"
+const keysa = {
+  name: "Keysa Maqfirah", // 👩 Nama lengkap
+  role: "Web Developer & UI/UX Designer", // 💻 Profesi
+  education: "Informatics Engineering Student @ Universitas Bengkulu", // 🎓 Pendidikan
+  batch: "Class of 2022", // 📆 Angkatan
+  skills: [ // 🛠️ Keahlian
+    "Web Development",
+    "UI/UX Design",
+    "Problem Solving"
+  ],
+  currentFocus: "Building creative web applications with clean code", // 🚀 Fokus saat ini
+  interests: "Exploring new technologies and creating user-friendly interfaces", // 🎯 Minat
+  contact: "keyaja176@gmail.com" // 📧 Kontak email
+};
+
 };
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies & Tools
