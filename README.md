@@ -120,7 +120,6 @@
 🕵️‍♀️ I get that "hacker" feeling coding at night with dark mode on!
 🧩 I solve coding problems to relax (weird, I know)
 📱 I've installed and uninstalled the same apps many times for UI inspiration
-💻 Learning by doing is my superpower
 ✨ I love building small projects to test new technologies
 🎮 When I'm not coding, I enjoy playing games that require strategy
 🎵 Coding with music is my productivity formula
@@ -175,9 +174,9 @@
 </div>
 <div align="center">
   <blockquote style="border-left: 3px solid #ff66cc; padding-left: 15px;">
-    <p>"Code like a girl, debug like a boss." 👩‍💻🔥</p>
-    <p>"Dream it. Code it. Own it." ✨</p>
-    <p>"Creating tomorrow's solutions with today's code." 🚀</p>
+    <p>"I don't know how beautiful it is at the end, what is clear is that I am still on the journey." 👩‍💻🔥</p>
+    <p>"There is no perfect system, neither are humans. The important thing is to continue to improve yourself and learn from mistakes." ✨</p>
+    <p>"Silence, composing moving logic, all errors." 🚀</p>
   </blockquote>
 </div>
 <!-- Connect With Me Section -->
