@@ -1,130 +1,209 @@
-<!-- Animated Header with Cyber/Hacker Theme -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+Keysa's+Portfolio;Full-Stack+Web+Developer;UI%2FUX+Designer;Always+Learning+New+Things" alt="Animated Typing Header" />
-</h1>
-<!-- Banner with Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Keysa%20Maqfirah&desc=Informatics%20Engineering%20Student&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&descAlignY=50&descSize=18" width="100%" />
-</p>
-<!-- Contribution Animation -->
+<!-- Animated Header with Particle Background -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Contribution Snake Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Keysa%20Maqfirah&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Fullstack%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
 </div>
 <p align="center">
-  <a href="mailto:keyaja176@gmail.com"><img src="https://img.shields.io/badge/Email-keyaja176%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/KeysaMaqfirah"><img src="https://img.shields.io/badge/GitHub-KeysaMaqfirah-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=KeysaMaqfirah&style=for-the-badge&color=00FFAA" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+my+tech+universe!+✨;Informatics+Student+at+University+of+Bengkulu;Passionate+Fullstack+Developer;UI%2FUX+Design+Enthusiast;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
-<!-- Introduction Animation -->
+<p align="center">
+  <a href="mailto:keyaja176@gmail.com">
+    <img src="https://img.shields.io/badge/Email-keyaja176%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KeysaMaqfirah">
+    <img src="https://img.shields.io/github/followers/KeysaMaqfirah?style=for-the-badge&logo=github&labelColor=black&color=ff66cc" alt="GitHub followers" />
+  </a>
+</p>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=300&color=00FFAA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+about+web+development;Learning+and+growing+every+day;Feel+free+to+explore+my+projects!" alt="Introduction Animation" />
+  <img src="https://komarev.com/ghpvc/?username=KeysaMaqfirah&style=flat-square&color=ff66cc" alt="Profile views"/>
 </div>
+<!-- About Me Section with Animation -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" /> 
+  <b>About Me</b>
+</h2>
+<img align="right" height="220" width="300" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-const keysa = {
-  name: "Keysa Maqfirah",                       // 👩 Nama lengkap
-  role: "Web Developer & UI/UX Designer",      // 💻 Profesi
-  education: "Informatics Engineering Student @ Universitas Bengkulu", // 🎓 Pendidikan
-  batch: "Class of 2022",                      // 📆 Angkatan
-  skills: [                                    // 🛠️ Keahlian
-    "Web Development",
-    "UI/UX Design",
-    "Problem Solving"
-  ],
-  currentFocus: "Building creative web applications with clean code", // 🚀 Fokus saat ini
-  interests: "Exploring new technologies and creating user-friendly interfaces", // 🎯 Minat
-  contact: "keyaja176@gmail.com"               // 📧 Kontak email
-};
+🎓 Informatics Engineering Student at University of Bengkulu
+👩‍💻 Passionate about Web Development & UI/UX Design
+🚀 Currently learning Vue.js, React, and Node.js
+📚 Class of 2022
+🔍 Always exploring new technologies and frameworks
+💡 Love creating solutions that make an impact
+📧 Reach me at: keyaja176@gmail.com
+🌐 Portfolio: Coming Soon
 
-
-};
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies & Tools
-<!-- Skills Icons -->
+<br>
+<!-- Tech Stack Section with Animated Icons -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" />
+  <b>Tech Stack & Skills</b>
+</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,mysql,git,vscode,figma&theme=light&perline=5" alt="Skills" />
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  </p>
+  <h3>🧰 Frameworks & Libraries</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Filament-5849BE?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament" />
+  </p>
+  <h3>🗄️ Databases & Storage</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/IndexedDB-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="IndexedDB" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </p>
+  <h3>🛠️ Tools & Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+    <img src="https://img.shields.io/badge/Astah-00B4D8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAZlBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////RudpXAAAAIXRSTlMABjdqmcDlzKF6QBIG2/v33+mRIu5k8Owo1QSz9ZcraMibRpBrAAAAAWJLR0QiXWVcrAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAd0SU1FB+cFEhQCEYAjSUAAAAA8SURBVAjXY2BgZGJmYWVj5+CEATwHBk4GbgYeBl4GPgZ+AQbB0DBhEQZRsGYxBnEJSSlpGVk5eQVFJWUANiwCJwlYH7QAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDUtMThUMjA6MDI6MTcrMDA6MDCiX2QXAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTA1LTE4VDIwOjAyOjE3KzAwOjAw0wLcqwAAAABJRU5ErkJggg==" alt="Astah" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </p>
+  <h3>⚙️ Other Skills</h3>
+  <p>
+    <img src="https://img.shields.io/badge/RESTful_API-2296F3?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
+    <img src="https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+    <img src="https://img.shields.io/badge/Responsive_Design-025E8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive Design" />
+    <img src="https://img.shields.io/badge/UI/UX_Design-FF5A5F?style=for-the-badge&logo=adobe&logoColor=white" alt="UI/UX Design" />
+    <img src="https://img.shields.io/badge/Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Version Control" />
+  </p>
 </div>
-<!-- Languages Section -->
-<img src="https://media.giphy.com/media/XEmf072nyFbAbSTMbX/giphy.gif" width="30"> Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div>
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Frameworks & Libraries
-<div>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Filament-5849BE?style=for-the-badge&logo=filament&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RESTful%20API-2296F3?style=for-the-badge&logo=api&logoColor=white" />
-</div>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Development Tools
-<div>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Astah-00B4D8?style=for-the-badge&logo=astah&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IndexedDB-4479A1?style=for-the-badge&logo=indexeddb&logoColor=white" />
-</div>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> About Me
+<!-- GitHub Stats Section with Animations -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="30" />
+  <b>GitHub Stats & Contributions</b>
+</h2>
 <div align="center">
-  <table border="0">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeysaMaqfirah&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=ff66cc&icon_color=F8D866&text_color=FFFFFF" height="180" alt="Keysa's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeysaMaqfirah&theme=radical&border_radius=10&hide_border=true&background=0D1117&stroke=ff66cc&ring=ff66cc&fire=F8D866&currStreakNum=FFFFFF&sideNums=ff66cc&currStreakLabel=F8D866&sideLabels=FFFFFF&dates=FFFFFF" height="180" alt="Keysa's GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeysaMaqfirah&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=ff66cc&text_color=FFFFFF" height="180" alt="Keysa's Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KeysaMaqfirah&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Keysa's Trophies" />
+</div>
+<!-- Contribution & Activity Graph -->
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=KeysaMaqfirah&custom_title=Keysa%20Maqfirah's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true&line=ff66cc&point=FFFFFF&area=true&area_color=ff66cc" width="100%" alt="Keysa's Activity Graph" />
+</div>
+<!-- Fun Facts Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/bLcC2757uGT4f2sRQm/giphy.gif" width="30" /> 
+  <b>Fun Facts</b>
+</h2>
+<img align="left" width="150" height="150" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
+<div align="left" style="margin-left: 170px;">
+
+🌙 Productive night owl - most of my code is written after 10 PM!
+🕵️‍♀️ I get that "hacker" feeling coding at night with dark mode on!
+🧩 I solve coding problems to relax (weird, I know)
+📱 I've installed and uninstalled the same apps many times for UI inspiration
+💻 Learning by doing is my superpower
+✨ I love building small projects to test new technologies
+🎮 When I'm not coding, I enjoy playing games that require strategy
+🎵 Coding with music is my productivity formula
+
+</div>
+<br clear="all">
+<!-- Current Projects Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+  <b>Current Projects</b>
+</h2>
+<div align="center">
+  <table>
     <tr>
-      <td>
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230px" />
+      <td width="50%">
+        <h3 align="center">Personal Portfolio Website</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://i.imgur.com/mD6zUqi.png" width="100%" alt="Portfolio"/>
+          </a>
+          <br>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+          </p>
+          <p align="center">A responsive portfolio website showcasing my projects and skills.</p>
+        </p>
       </td>
-      <td>
-        <ul>
-          <li>🎓 <b>Education:</b> Informatics Engineering Student at Universitas Bengkulu</li>
-          <li>💼 <b>Interest:</b> Web Development and UI/UX Design</li>
-          <li>🌱 <b>Learning:</b> Always exploring new technologies and frameworks</li>
-          <li>🚀 <b>Goals:</b> Creating impactful web applications and beautiful interfaces</li>
-          <li>☕ <b>Fun fact:</b> I enjoy coding with a cup of coffee during late nights</li>
-        </ul>
+      <td width="50%">
+        <h3 align="center">E-Learning Platform</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://i.imgur.com/ipuYdOW.png" width="100%" alt="E-Learning"/>
+          </a>
+          <br>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+            <img src="https://img.shields.io/badge/Filament-5849BE?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament" />
+          </p>
+          <p align="center">An online learning platform with courses, quizzes, and progress tracking.</p>
+        </p>
       </td>
     </tr>
   </table>
 </div>
-
-<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="40"> GitHub Stats
+<!-- Quote Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l0HlKgjdCGpBYvSZW/giphy.gif" width="30" />
+  <b>My Coding Philosophy</b>
+</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeysaMaqfirah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeysaMaqfirah&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeysaMaqfirah&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KeysaMaqfirah&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-</div>
-
-<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="40"> Current Focus & Projects
-bash# My Current Focus:
-- Developing responsive web applications
-- Learning modern JavaScript frameworks
-- Improving UI/UX design skills
-- Working on personal portfolio projects
-- Collaborating on team development projects
-- Learning new technologies: 75% complete
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" />
-</p>
-
-<img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="40"> Inspirational Quotes
-<div align="center">
-
-"Code like a girl, debug like a boss." 👩‍💻
-"Dream it. Code it. Own it."
-"The best error message is the one that never shows up."
-
-</div>
-<!-- Footer Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
-</div>
-<!-- Footer with coding animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Quote" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00AAFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!;Keysa+Maqfirah+%7C+2025" alt="Footer Animation" />
+  <blockquote style="border-left: 3px solid #ff66cc; padding-left: 15px;">
+    <p>"Code like a girl, debug like a boss." 👩‍💻🔥</p>
+    <p>"Dream it. Code it. Own it." ✨</p>
+    <p>"Creating tomorrow's solutions with today's code." 🚀</p>
+  </blockquote>
+</div>
+<!-- Connect With Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
+  <b>Let's Connect!</b>
+</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KeysaMaqfirah">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:keyaja176@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+<!-- Coding Gif -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding GIF" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 </div>
