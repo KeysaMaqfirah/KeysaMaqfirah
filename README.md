@@ -5,9 +5,7 @@
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="colorful-line" width="100%" />
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Welcome+to+my+tech+universe!+✨;Informatics+Student+at+University+of+Bengkulu;Passionate+Fullstack+Developer;UI%2FUX+Design+Enthusiast;Always+learning%2C+always+growing" alt="Typing SVG" />
-</p>
+
 <p align="center">
   <a href="mailto:keyaja176@gmail.com">
     <img src="https://img.shields.io/badge/Email-keyaja176%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
@@ -103,12 +101,12 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KeysaMaqfirah&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Keysa's Trophies" />
 </div>
+
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KeysaMaqfirah/KeysaMaqfirah/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+    <img src="https://i.imgur.com/waxVImv.png" alt="colorful-line" width="100%" />
 </div>
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="colorful-line" width="100%" />
-</div>
+
 <!-- Fun Facts Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FjM3I3aGlpaGlhZ3RsOHp1bnpnamQzMGFzZnRnNWs2Z3J2MXJydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0dGnTDFgEr68myH0C/giphy.gif" width="30" /> 
