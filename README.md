@@ -21,10 +21,10 @@
 </div>
 <!-- About Me Section with Animation -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" /> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQxNzMzdm52amdvZnF5OXhobXloaGhvYnE5eXh0cGV6d3ViMXUwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="30" /> 
   <b>About Me</b>
 </h2>
-<img align="right" height="220" width="300" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" height="220" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHI2cDQ3aDFtaHU5OXU3cHY5MjUwZXJvam1jbWZ5YmdrbjU4bmxzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 🎓 Informatics Engineering Student at University of Bengkulu
 👩‍💻 Passionate about Web Development & UI/UX Design
@@ -38,7 +38,7 @@
 <br>
 <!-- Tech Stack Section with Animated Icons -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29pMHJxd3FpaWNzMTV1Z21tbWMxNWVybHNxNG9jOHVqM200ZnJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" />
   <b>Tech Stack & Skills</b>
 </h2>
 <div align="center">
@@ -91,7 +91,7 @@
 </div>
 <!-- GitHub Stats Section with Animations -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt1ZDR0MnVubnl5ZDVsYW0xeTJwd2VhZXpsM29vZTZnM3FrbmF3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hO8uTzEOefFh3Yv5YN/giphy.gif" width="30" />
   <b>GitHub Stats & Contributions</b>
 </h2>
 <div align="center">
@@ -110,10 +110,10 @@
 </div>
 <!-- Fun Facts Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/bLcC2757uGT4f2sRQm/giphy.gif" width="30" /> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FjM3I3aGlpaGlhZ3RsOHp1bnpnamQzMGFzZnRnNWs2Z3J2MXJydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0dGnTDFgEr68myH0C/giphy.gif" width="30" /> 
   <b>Fun Facts</b>
 </h2>
-<img align="left" width="150" height="150" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
+<img align="left" width="150" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW96c3M5amFjeWcyb3V0eDJoZ2psdnM3aGMxcnl4NDA3MHJrOXUzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HQHVlCgl2gFa0/giphy.gif" />
 <div align="left" style="margin-left: 170px;">
 
 🌙 Productive night owl - most of my code is written after 10 PM!
@@ -129,7 +129,7 @@
 <br clear="all">
 <!-- Current Projects Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J2NWkxc3Rsemphc2w1Y2YweGRvdmozMW04aXQ3cGdwaXJ4OW93aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif" width="30" />
   <b>Current Projects</b>
 </h2>
 <div align="center">
@@ -139,7 +139,7 @@
         <h3 align="center">Personal Portfolio Website</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://i.imgur.com/mD6zUqi.png" width="100%" alt="Portfolio"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdxaHR3eDRwOXNub2RjbW5wb3dxOTAyeXFkdDlqaGRlemx5MnNxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Portfolio"/>
           </a>
           <br>
           <p align="center">
@@ -153,7 +153,7 @@
         <h3 align="center">E-Learning Platform</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://i.imgur.com/ipuYdOW.png" width="100%" alt="E-Learning"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBodDhzZWRqN2NvOWk4dGVwdnZrNWJ6bmRpaXJrZGV5cXZjMHN0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btZ93xzBKGRcqA0/giphy.gif" width="100%" alt="E-Learning"/>
           </a>
           <br>
           <p align="center">
@@ -168,7 +168,7 @@
 </div>
 <!-- Quote Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/l0HlKgjdCGpBYvSZW/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ6M296cGQzY3ZmOGl2ZHY1NnZ5MjR6OGY3Z2c2Z2k3eWFpbWJuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FPJGjhefSJuaRhu/giphy.gif" width="30" />
   <b>My Coding Philosophy</b>
 </h2>
 <div align="center">
@@ -183,7 +183,7 @@
 </div>
 <!-- Connect With Me Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZvbTIya2JlbmlvcHkxZnNjaXh5ZmEwbjM3bmo2Z290MnRqemZoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGhBlBMIN2XuQXMsVT/giphy.gif" width="30" />
   <b>Let's Connect!</b>
 </h2>
 <div align="center">
@@ -202,7 +202,7 @@
 </div>
 <!-- Coding Gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN4N2toNmZsZXI5ZHh2dGl0ZWF3cmgxeXA1YzFrdTl2aXZyanIzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="350" alt="Coding GIF" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
