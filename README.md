@@ -22,19 +22,20 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 const keysa = {
-  name: "Keysa Maqfirah", // 👩 Nama lengkap
-  role: "Web Developer & UI/UX Designer", // 💻 Profesi
+  name: "Keysa Maqfirah",                       // 👩 Nama lengkap
+  role: "Web Developer & UI/UX Designer",      // 💻 Profesi
   education: "Informatics Engineering Student @ Universitas Bengkulu", // 🎓 Pendidikan
-  batch: "Class of 2022", // 📆 Angkatan
-  skills: [ // 🛠️ Keahlian
+  batch: "Class of 2022",                      // 📆 Angkatan
+  skills: [                                    // 🛠️ Keahlian
     "Web Development",
     "UI/UX Design",
     "Problem Solving"
   ],
   currentFocus: "Building creative web applications with clean code", // 🚀 Fokus saat ini
   interests: "Exploring new technologies and creating user-friendly interfaces", // 🎯 Minat
-  contact: "keyaja176@gmail.com" // 📧 Kontak email
+  contact: "keyaja176@gmail.com"               // 📧 Kontak email
 };
+
 
 };
 
