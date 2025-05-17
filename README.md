@@ -31,7 +31,6 @@
   <b>About Me</b>
 </h2>
 <img align="right" height="220" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHI2cDQ3aDFtaHU5OXU3cHY5MjUwZXJvam1jbWZ5YmdrbjU4bmxzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
 🎓 Informatics Engineering Student at University of Bengkulu
 👩‍💻 Passionate about Web Development & UI/UX Design
 🚀 Currently learning Vue.js, React, and Node.js
@@ -40,7 +39,6 @@
 💡 Love creating solutions that make an impact
 📧 Reach me at: keyaja176@gmail.com
 🌐 Portfolio: Coming Soon
-
 <br>
 <!-- Tech Stack Section with Animated Icons -->
 <h2 align="center">
@@ -81,7 +79,9 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDl6dnN0ZHZ3OHlqNGd2ajR3Znd1bzgxdXp0MjF6ZGUzNnBydmNldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9pmLinW8vC22Io/giphy.gif" width="70" />
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c2bjlsbGRlYXhqZHk2MGJhbjM2dGN3ZGUwdWV2aTIwZzQ5NTZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JO9WCVmDMbC0eLSlyV/giphy.gif" width="70" />
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFseHpmdmRsajV0MmlscWJiMHo3Z2kyNzI0M2E1dnZ2d2doNXQ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j5zY9FKGwp1YVZ3Sn5/giphy.gif" width="70" />
-  </p>296F3?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/RESTful_API-296F3?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
     <img src="https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
     <img src="https://img.shields.io/badge/Responsive_Design-025E8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive Design" />
     <img src="https://img.shields.io/badge/UI/UX_Design-FF5A5F?style=for-the-badge&logo=adobe&logoColor=white" alt="UI/UX Design" />
@@ -116,7 +116,6 @@
 </h2>
 <img align="left" width="150" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW96c3M5amFjeWcyb3V0eDJoZ2psdnM3aGMxcnl4NDA3MHJrOXUzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HQHVlCgl2gFa0/giphy.gif" />
 <div align="left" style="margin-left: 170px;">
-
 🌙 Productive night owl - most of my code is written after 10 PM!
 🕵️‍♀️ I get that "hacker" feeling coding at night with dark mode on!
 🧩 I solve coding problems to relax (weird, I know)
@@ -125,7 +124,6 @@
 ✨ I love building small projects to test new technologies
 🎮 When I'm not coding, I enjoy playing games that require strategy
 🎵 Coding with music is my productivity formula
-
 </div>
 <br clear="all">
 <!-- Current Projects Section -->
